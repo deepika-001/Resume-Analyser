@@ -31,30 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AIResumeAnalyzer.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Resume.executor": "Run",
-    "Application.ResumeAnalyser.executor": "Run",
-    "Application.ResumeAnalyze.executor": "Run",
-    "Application.ResumeAnalyzer.executor": "Run",
-    "Application.ResumeAnalyzerV2.executor": "Run",
-    "Application.ResumeExcelWriter.executor": "Run",
-    "Application.ResumeExtractor.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/deepi/Downloads/pdfbox-app-2.0.29.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AIResumeAnalyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Resume.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResumeAnalyser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResumeAnalyze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResumeAnalyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResumeAnalyzerV2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResumeExcelWriter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResumeExtractor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/deepi/Downloads/pdfbox-app-2.0.29.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\deepi\Documents\resume java" />
@@ -116,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753276861218</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial working Resume Analyzer">
+      <option name="closed" value="true" />
+      <created>1753276913800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753276913800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial working Resume Analyzer">
+      <option name="closed" value="true" />
+      <created>1753276927792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753276927792</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
