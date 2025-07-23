@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0255a97a-6787-4fa9-a5bd-c1a980e31dd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeAnalyzer.java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_resume.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_resume.docx.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_resume.docx.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PassesCanditatesDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResumeAnalyser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResumeExcelWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResumeExtractor.java" afterDir="false" />
+    <list default="true" id="0255a97a-6787-4fa9-a5bd-c1a980e31dd5" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_resume.docx.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_resume.docx.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1753067912677</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1753258463393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753258463393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
